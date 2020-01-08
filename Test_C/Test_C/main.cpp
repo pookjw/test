@@ -10,6 +10,7 @@
 
 void say_hello(){
     printf("Hello!\n");
+    printf("Hello!\n");
 }
 
 int main(int argc, const char * argv[]) {
